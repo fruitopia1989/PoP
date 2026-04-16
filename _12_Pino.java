@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-public class lab12 {
+public class _12_Pino {
     public static void main(String[] args) {
         // Check for command line arguments: [username] [password] [database]
         if (args.length < 3) {
