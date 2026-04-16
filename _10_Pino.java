@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.*;
 
-public class Week10_Labs {
+public class _10_Pino {
     public static void main(String[] args) {
         List<String> fruit = Arrays.asList("cherry","banana","berry","apple","cherry","kiwi","fig","date","lemon","honeydew","cherry","elderberry","apple","banana","grape");
     
